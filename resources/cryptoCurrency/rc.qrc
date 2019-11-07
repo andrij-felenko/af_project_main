@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icon/cryptoCurrency">
+        <file>bitcoin.svg</file>
+        <file>bitcoin_1.svg</file>
+        <file>bitcoin_2.svg</file>
+        <file>bitcoin_3.svg</file>
+        <file>bitcoin_4.svg</file>
+        <file>bitcoin_5.svg</file>
+        <file>bitcoin_6.svg</file>
+        <file>bitcoin_7.svg</file>
+        <file>bitcoin_8.svg</file>
+        <file>bitcoin_9.svg</file>
+        <file>chains.svg</file>
+        <file>dash.svg</file>
+        <file>ethereum.svg</file>
+        <file>ethereum_1.svg</file>
+        <file>exchange.svg</file>
+        <file>litecoin.svg</file>
+        <file>monero.svg</file>
+        <file>monero_1.svg</file>
+        <file>ripple.svg</file>
+        <file>zcash.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_2" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve" width="512" height="512">
+<style type="text/css">
+	.st0{fill:#EDEFF1;}
+	.st1{fill:#D3D3D3;}
+	.st2{fill:#98CA69;}
+	.st3{fill:#80D6FB;}
+	.st4{fill:#FFB0AA;}
+	.st5{fill:#FFE352;}
+	.st6{fill:#6E83B7;}
+	.st7{fill:#466089;}
+	.st8{fill:#FFD3B3;}
+	.st9{fill:#FCB98B;}
+	.st10{fill:#FFB236;}
+	.st11{fill:#46BEE8;}
+	.st12{fill:#E0E2FF;}
+	.st13{fill:#8FA5D1;}
+	.st14{fill:#75AA40;}
+</style>
+<g>
+	<g>
+		<rect x="2" y="15" class="st2" width="8" height="16"/>
+	</g>
+	<g>
+		<rect x="5" y="9" class="st0" width="2" height="6"/>
+	</g>
+	<g>
+		<rect x="5" y="31" class="st0" width="2" height="6"/>
+	</g>
+	<g>
+		<rect x="54" y="14" class="st2" width="8" height="12"/>
+	</g>
+	<g>
+		<rect x="57" y="8" class="st0" width="2" height="6"/>
+	</g>
+	<g>
+		<rect x="57" y="26" class="st0" width="2" height="6"/>
+	</g>
+	<g>
+		<rect x="15" y="7" class="st4" width="8" height="11"/>
+	</g>
+	<g>
+		<rect x="18" y="2" class="st0" width="2" height="5"/>
+	</g>
+	<g>
+		<rect x="18" y="18" class="st0" width="2" height="5"/>
+	</g>
+	<g>
+		<rect x="41" y="12" class="st4" width="8" height="8"/>
+	</g>
+	<g>
+		<rect x="44" y="6" class="st0" width="2" height="6"/>
+	</g>
+	<g>
+		<rect x="44" y="20" class="st0" width="2" height="6"/>
+	</g>
+	<g>
+		<rect x="28" y="12" class="st2" width="8" height="14"/>
+	</g>
+	<g>
+		<rect x="31" y="6" class="st0" width="2" height="6"/>
+	</g>
+	<g>
+		<rect x="31" y="26" class="st0" width="2" height="6"/>
+	</g>
+	<g>
+		<path class="st3" d="M46,52H18c-1.105,0-2-0.895-2-2V38c0-1.105,0.895-2,2-2h28c1.105,0,2,0.895,2,2v12C48,51.105,47.105,52,46,52    z"/>
+	</g>
+	<g>
+		<path class="st11" d="M27,41c0-1.654-1.346-3-3-3h-5v5v2v5h5c1.654,0,3-1.346,3-3v-1c0-0.771-0.301-1.468-0.78-2    c0.48-0.532,0.78-1.229,0.78-2V41z M21,40h3c0.551,0,1,0.449,1,1v1c0,0.551-0.449,1-1,1h-3V40z M25,47c0,0.551-0.449,1-1,1h-3v-3    h3c0.551,0,1,0.449,1,1V47z"/>
+		<g>
+			<g>
+				<path class="st11" d="M33,50h-2c-1.654,0-3-1.346-3-3v-9h2v9c0,0.551,0.449,1,1,1h2c0.551,0,1-0.449,1-1v-9h2v9      C36,48.654,34.654,50,33,50z"/>
+			</g>
+		</g>
+		<path class="st11" d="M43,38v4c0,0.551-0.449,1-1,1h-2c-0.551,0-1-0.449-1-1v-4h-2v4c0,1.654,1.346,3,3,3v5h2v-5    c1.654,0,3-1.346,3-3v-4H43z"/>
+	</g>
+	<g>
+		<g>
+			<path class="st8" d="M50.932,44h-2.877v-3c0-1.105-0.895-2-2-2h0c-1.105,0-2,0.895-2,2v3v2h-1c-1.105,0-2,0.895-2,2v3.23     c0,0.509,0.097,1.013,0.286,1.486L43.055,57h11l0.921-8.286c0.053-0.473,0.02-0.951-0.095-1.412l-0.068-0.273     C54.367,45.249,52.767,44,50.932,44z"/>
+		</g>
+		<g>
+			<path class="st9" d="M43.056,46v5h1v-5C44.056,46,43.014,46.042,43.056,46z"/>
+		</g>
+		<g>
+			<rect x="43.055" y="57" class="st3" width="11" height="5"/>
+		</g>
+		<g>
+			<rect x="43.055" y="57" class="st0" width="11" height="1.984"/>
+		</g>
+	</g>
+</g>
+</svg>

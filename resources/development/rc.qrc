@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icon/development">
+        <file>browser.svg</file>
+        <file>browser_1.svg</file>
+        <file>browser_2.svg</file>
+        <file>browser_3.svg</file>
+        <file>center_alignment.svg</file>
+        <file>coding.svg</file>
+        <file>coding_1.svg</file>
+        <file>coding_2.svg</file>
+        <file>coding_3.svg</file>
+        <file>cogwheels.svg</file>
+        <file>combine.svg</file>
+        <file>css.svg</file>
+        <file>database.svg</file>
+        <file>exchange.svg</file>
+        <file>firewall.svg</file>
+        <file>http.svg</file>
+        <file>laptop.svg</file>
+        <file>laptop_1.svg</file>
+        <file>laptop_2.svg</file>
+        <file>laptop_3.svg</file>
+        <file>laptop_4.svg</file>
+        <file>laptop_5.svg</file>
+        <file>laptop_6.svg</file>
+        <file>menu.svg</file>
+        <file>settings.svg</file>
+        <file>share.svg</file>
+        <file>shield.svg</file>
+        <file>smartphone.svg</file>
+        <file>tablet.svg</file>
+        <file>website.svg</file>
+    </qresource>
+</RCC>

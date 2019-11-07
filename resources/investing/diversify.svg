@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_2" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve" width="512" height="512">
+<style type="text/css">
+	.st0{fill:#EDEFF1;}
+	.st1{fill:#D3D3D3;}
+	.st2{fill:#98CA69;}
+	.st3{fill:#80D6FB;}
+	.st4{fill:#FFB0AA;}
+	.st5{fill:#FFE352;}
+	.st6{fill:#6E83B7;}
+	.st7{fill:#466089;}
+	.st8{fill:#FFD3B3;}
+	.st9{fill:#FCB98B;}
+	.st10{fill:#FFB236;}
+	.st11{fill:#46BEE8;}
+	.st12{fill:#E0E2FF;}
+	.st13{fill:#8FA5D1;}
+	.st14{fill:#75AA40;}
+</style>
+<g>
+	<g>
+		
+			<rect x="45" y="5.272" transform="matrix(0.7071 0.7071 -0.7071 0.7071 26.201 -27.2548)" class="st5" width="2" height="25.456"/>
+	</g>
+	<g>
+		<rect x="5.272" y="17" transform="matrix(0.7071 0.7071 -0.7071 0.7071 18 -7.4558)" class="st5" width="25.456" height="2"/>
+	</g>
+	<g>
+		<rect x="33.272" y="45" transform="matrix(0.7071 0.7071 -0.7071 0.7071 46 -19.0538)" class="st5" width="25.456" height="2"/>
+	</g>
+	<g>
+		<rect x="17" y="33.272" transform="matrix(0.7071 0.7071 -0.7071 0.7071 37.799 0.7452)" class="st5" width="2" height="25.456"/>
+	</g>
+	<g>
+		<circle class="st6" cx="9" cy="55" r="7"/>
+	</g>
+	<g>
+		<circle class="st3" cx="9" cy="55" r="4"/>
+	</g>
+	<g>
+		<circle class="st6" cx="55" cy="55" r="7"/>
+	</g>
+	<g>
+		<circle class="st6" cx="9" cy="9" r="7"/>
+	</g>
+	<g>
+		<rect x="5" y="5" class="st2" width="8" height="8"/>
+	</g>
+	<g>
+		<g>
+			<circle class="st5" cx="32" cy="32" r="14"/>
+		</g>
+		<g>
+			<path class="st10" d="M32,44c-6.617,0-12-5.383-12-12s5.383-12,12-12s12,5.383,12,12S38.617,44,32,44z M32,22     c-5.514,0-10,4.486-10,10s4.486,10,10,10s10-4.486,10-10S37.514,22,32,22z"/>
+		</g>
+		<path class="st6" d="M33.5,31h-3c-0.827,0-1.5-0.673-1.5-1.5s0.673-1.5,1.5-1.5H33c1.103,0,2,0.897,2,2h2c0-2.206-1.794-4-4-4v-2    h-2v2h-0.5c-1.93,0-3.5,1.57-3.5,3.5s1.57,3.5,3.5,3.5h3c0.827,0,1.5,0.673,1.5,1.5S34.327,36,33.5,36H30c-0.551,0-1-0.449-1-1h-2    c0,1.654,1.346,3,3,3h1v2h2v-2h0.5c1.93,0,3.5-1.57,3.5-3.5S35.43,31,33.5,31z"/>
+	</g>
+	<g>
+		<circle class="st6" cx="55" cy="9" r="7"/>
+	</g>
+	<g>
+		<polygon class="st4" points="59,12 51,12 55,4   "/>
+	</g>
+	<g>
+		<polygon class="st5" points="53,58.464 51,55 53,51.536 57,51.536 59,55 57,58.464   "/>
+	</g>
+</g>
+</svg>

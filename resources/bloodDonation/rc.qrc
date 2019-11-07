@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/icon/bloodDonation">
+        <file>ambulance.svg</file>
+        <file>ambulance_1.svg</file>
+        <file>blood_bag.svg</file>
+        <file>blood_cells.svg</file>
+        <file>blood_donation.svg</file>
+        <file>blood_donation_1.svg</file>
+        <file>blood_donation_10.svg</file>
+        <file>blood_donation_11.svg</file>
+        <file>blood_donation_12.svg</file>
+        <file>blood_donation_13.svg</file>
+        <file>blood_donation_14.svg</file>
+        <file>blood_donation_15.svg</file>
+        <file>blood_donation_16.svg</file>
+        <file>blood_donation_17.svg</file>
+        <file>blood_donation_2.svg</file>
+        <file>blood_donation_3.svg</file>
+        <file>blood_donation_4.svg</file>
+        <file>blood_donation_5.svg</file>
+        <file>blood_donation_6.svg</file>
+        <file>blood_donation_7.svg</file>
+        <file>blood_donation_8.svg</file>
+        <file>blood_donation_9.svg</file>
+        <file>blood_donor_card.svg</file>
+        <file>blood_pressure.svg</file>
+        <file>blood_transfusion.svg</file>
+        <file>blood_transfusion_1.svg</file>
+        <file>blood_type.svg</file>
+        <file>blood_type_1.svg</file>
+        <file>blood_type_2.svg</file>
+        <file>blood_type_3.svg</file>
+        <file>box.svg</file>
+        <file>donor.svg</file>
+        <file>donor_1.svg</file>
+        <file>form.svg</file>
+        <file>hospital_bed.svg</file>
+        <file>medication.svg</file>
+        <file>motorbike.svg</file>
+        <file>nurse.svg</file>
+        <file>research.svg</file>
+        <file>wound.svg</file>
+    </qresource>
+</RCC>

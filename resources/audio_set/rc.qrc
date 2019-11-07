@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icon/audio_set">
+        <file>cassette.svg</file>
+        <file>gramophone.svg</file>
+        <file>guitar.svg</file>
+        <file>headphone.svg</file>
+        <file>microphone.svg</file>
+        <file>microphone_1.svg</file>
+        <file>mp3.svg</file>
+        <file>piano.svg</file>
+        <file>speaker.svg</file>
+        <file>turntable.svg</file>
+    </qresource>
+</RCC>

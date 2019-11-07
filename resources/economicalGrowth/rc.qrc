@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icon/economicalGrowth">
+        <file>bar_chart.svg</file>
+        <file>briefcase.svg</file>
+        <file>deal.svg</file>
+        <file>education.svg</file>
+        <file>exchange.svg</file>
+        <file>growth.svg</file>
+        <file>growth_1.svg</file>
+        <file>growth_2.svg</file>
+        <file>growth_3.svg</file>
+        <file>growth_4.svg</file>
+        <file>growth_5.svg</file>
+        <file>handshake.svg</file>
+        <file>healthcare.svg</file>
+        <file>invoice.svg</file>
+        <file>line_chart.svg</file>
+        <file>market.svg</file>
+        <file>market_1.svg</file>
+        <file>mortgage.svg</file>
+        <file>population.svg</file>
+        <file>printer.svg</file>
+        <file>productivity.svg</file>
+        <file>productivity_1.svg</file>
+        <file>profits.svg</file>
+        <file>profits_1.svg</file>
+        <file>profits_2.svg</file>
+        <file>safebox.svg</file>
+        <file>savings.svg</file>
+        <file>sprout.svg</file>
+        <file>strategy.svg</file>
+        <file>worldwide.svg</file>
+    </qresource>
+</RCC>

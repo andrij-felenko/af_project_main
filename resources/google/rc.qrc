@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icon/google">
+        <file>account.svg</file>
+        <file>adwords.svg</file>
+        <file>business.svg</file>
+        <file>calendar.svg</file>
+        <file>docs.svg</file>
+        <file>drive.svg</file>
+        <file>gmail.svg</file>
+        <file>google.svg</file>
+        <file>google_plus.svg</file>
+        <file>news.svg</file>
+        <file>photos.svg</file>
+        <file>search.svg</file>
+        <file>sheets.svg</file>
+        <file>slides.svg</file>
+        <file>translate.svg</file>
+        <file>youtube.svg</file>
+    </qresource>
+</RCC>

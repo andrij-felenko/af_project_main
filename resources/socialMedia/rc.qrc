@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icon/socialMedia">
+        <file>badoo.svg</file>
+        <file>behance.svg</file>
+        <file>deviantart.svg</file>
+        <file>dribbble.svg</file>
+        <file>dropbox.svg</file>
+        <file>facebook.svg</file>
+        <file>flickr.svg</file>
+        <file>foursquare.svg</file>
+        <file>google_plus.svg</file>
+        <file>instagram.svg</file>
+        <file>line.svg</file>
+        <file>linkedin.svg</file>
+        <file>myspace.svg</file>
+        <file>path.svg</file>
+        <file>pinterest.svg</file>
+        <file>quora.svg</file>
+        <file>skype.svg</file>
+        <file>snapchat.svg</file>
+        <file>soundcloud.svg</file>
+        <file>spotify.svg</file>
+        <file>swarm.svg</file>
+        <file>telegram.svg</file>
+        <file>tumblr.svg</file>
+        <file>twitter.svg</file>
+        <file>viber.svg</file>
+        <file>vimeo.svg</file>
+        <file>vine.svg</file>
+        <file>whatsapp.svg</file>
+        <file>yelp.svg</file>
+        <file>youtube.svg</file>
+    </qresource>
+</RCC>

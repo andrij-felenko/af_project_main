@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/icon/fantasy">
+        <file>broomstick.svg</file>
+        <file>castle.svg</file>
+        <file>cauldron.svg</file>
+        <file>centaur.svg</file>
+        <file>chimera.svg</file>
+        <file>cthulhu.svg</file>
+        <file>cyclops.svg</file>
+        <file>dracula.svg</file>
+        <file>dragon.svg</file>
+        <file>elf.svg</file>
+        <file>excalibur.svg</file>
+        <file>fairy_tale.svg</file>
+        <file>faun.svg</file>
+        <file>flask.svg</file>
+        <file>frankenstein.svg</file>
+        <file>giant.svg</file>
+        <file>golem.svg</file>
+        <file>griffin.svg</file>
+        <file>hydra.svg</file>
+        <file>magic_lamp.svg</file>
+        <file>magic_mirror.svg</file>
+        <file>magic_wand.svg</file>
+        <file>magic_wand_1.svg</file>
+        <file>medusa.svg</file>
+        <file>mermaid.svg</file>
+        <file>minotaur.svg</file>
+        <file>quetzalcoatl.svg</file>
+        <file>ring.svg</file>
+        <file>seahorses.svg</file>
+        <file>snake.svg</file>
+        <file>sword.svg</file>
+        <file>thor.svg</file>
+        <file>troll.svg</file>
+        <file>troll_1.svg</file>
+        <file>unicorn.svg</file>
+        <file>werewolf.svg</file>
+        <file>witch_hat.svg</file>
+        <file>wizard.svg</file>
+        <file>yeti.svg</file>
+        <file>zeus.svg</file>
+    </qresource>
+</RCC>

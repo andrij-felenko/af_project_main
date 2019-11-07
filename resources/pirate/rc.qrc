@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icon/pirate">
+        <file>anchor.svg</file>
+        <file>atomic_bomb.svg</file>
+        <file>barrel.svg</file>
+        <file>boot.svg</file>
+        <file>buccaneer.svg</file>
+        <file>cannon.svg</file>
+        <file>compass.svg</file>
+        <file>crossbone.svg</file>
+        <file>cruise.svg</file>
+        <file>dice.svg</file>
+        <file>gallow.svg</file>
+        <file>grave.svg</file>
+        <file>gun.svg</file>
+        <file>hat.svg</file>
+        <file>hook.svg</file>
+        <file>jolly_roger.svg</file>
+        <file>knife.svg</file>
+        <file>lighthouse.svg</file>
+        <file>money.svg</file>
+        <file>porthole.svg</file>
+        <file>round_shot.svg</file>
+        <file>rudder.svg</file>
+        <file>rum.svg</file>
+        <file>skull.svg</file>
+        <file>spyglass.svg</file>
+        <file>torch.svg</file>
+        <file>treasure_chest.svg</file>
+        <file>treasure_map.svg</file>
+        <file>wanted.svg</file>
+        <file>wooden_leg.svg</file>
+    </qresource>
+</RCC>

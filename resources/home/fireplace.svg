@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<path style="fill:#ED2C39;" d="M496,128H16c-8.837,0-16-7.163-16-16V96c0-8.837,7.163-16,16-16h480c8.837,0,16,7.163,16,16v16
+		C512,120.837,504.837,128,496,128z"/>
+	<rect x="96" y="192" style="fill:#483640;" width="320" height="256"/>
+	<rect x="40" y="128" style="fill:#CB202C;" width="432" height="16"/>
+	<rect x="416" y="376" style="fill:#CB202C;" width="32" height="32"/>
+	<rect x="448" y="248" style="fill:#CB202C;" width="24" height="32"/>
+	<rect x="432" y="200" style="fill:#CB202C;" width="24" height="32"/>
+	<rect x="424" y="312" style="fill:#CB202C;" width="48" height="32"/>
+	<path style="fill:#ED2C39;" d="M496,448h-24V344h-48v-32h48v-32h-24v-32h24V144H40v120h24v32H40v96h32v32H40v24H16
+		c-8.837,0-16,7.163-16,16v16c0,8.837,7.163,16,16,16h480c8.837,0,16-7.163,16-16v-16C512,455.163,504.837,448,496,448z M432,200h24
+		v32h-24V200z M64,216h24v32H64V216z M448,408h-32v40H96v-88H56v-32h40V192h320v184h32V408z"/>
+	<rect x="40" y="392" style="fill:#CB202C;" width="32" height="32"/>
+	<rect x="40" y="264" style="fill:#CB202C;" width="24" height="32"/>
+	<rect x="64" y="216" style="fill:#CB202C;" width="24" height="32"/>
+	<rect x="56" y="328" style="fill:#CB202C;" width="40" height="32"/>
+	<polygon style="fill:#CB202C;" points="368,16 144,16 112,80 400,80 	"/>
+	<path style="fill:#F6B74E;" d="M256,256v48c-39.751,0-72,32.249-72,72c0,39.749,32.249,72,72,72c53.001,0,96-42.999,96-96
+		C352,299.001,309.001,256,256,256z"/>
+	<path style="fill:#F6934C;" d="M256,296v40c-22.084,0-40,17.916-40,40c0,22.083,17.916,40,40,40c33.126,0,60-26.875,60-60
+		C316,322.876,289.126,296,256,296z"/>
+	<path style="fill:#F27046;" d="M256,336c22.084,0,40,17.918,40,40c0,22.084-17.916,40-40,40V336z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>

@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icon/wildWest">
+        <file>arrows.svg</file>
+        <file>bandit.svg</file>
+        <file>beer.svg</file>
+        <file>beer_1.svg</file>
+        <file>boot.svg</file>
+        <file>bullets.svg</file>
+        <file>cactus.svg</file>
+        <file>coffin.svg</file>
+        <file>cooking.svg</file>
+        <file>explosive.svg</file>
+        <file>gallow.svg</file>
+        <file>gold_ingots.svg</file>
+        <file>gun.svg</file>
+        <file>harmonica.svg</file>
+        <file>map.svg</file>
+        <file>money_bag.svg</file>
+        <file>mountain.svg</file>
+        <file>native_american.svg</file>
+        <file>poker.svg</file>
+        <file>railway.svg</file>
+        <file>saloon.svg</file>
+        <file>saloon_1.svg</file>
+        <file>sign.svg</file>
+        <file>tipi.svg</file>
+        <file>wagon.svg</file>
+        <file>wanted.svg</file>
+        <file>water_tower.svg</file>
+        <file>wheel.svg</file>
+        <file>whip.svg</file>
+        <file>whiskey.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_2" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve" width="512" height="512">
+<style type="text/css">
+	.st0{fill:#EDEFF1;}
+	.st1{fill:#D3D3D3;}
+	.st2{fill:#98CA69;}
+	.st3{fill:#80D6FB;}
+	.st4{fill:#FFB0AA;}
+	.st5{fill:#FFE352;}
+	.st6{fill:#6E83B7;}
+	.st7{fill:#466089;}
+	.st8{fill:#FFD3B3;}
+	.st9{fill:#FCB98B;}
+	.st10{fill:#FFB236;}
+	.st11{fill:#46BEE8;}
+	.st12{fill:#E0E2FF;}
+	.st13{fill:#8FA5D1;}
+	.st14{fill:#75AA40;}
+</style>
+<g>
+	<g>
+		<g>
+			<path class="st6" d="M58,47H6V13c0-1.105,0.895-2,2-2h48c1.105,0,2,0.895,2,2V47z"/>
+		</g>
+		<g>
+			<rect x="8" y="13" class="st3" width="48" height="32"/>
+		</g>
+		<g>
+			<path class="st6" d="M58,53H6c-2.209,0-4-1.791-4-4v-2h60v2C62,51.209,60.209,53,58,53z"/>
+		</g>
+		<g>
+			<rect x="6" y="46" class="st7" width="52" height="1"/>
+		</g>
+		<g>
+			<path class="st13" d="M32,47h7l-1.414,1.414C37.211,48.789,36.702,49,36.172,49H32h-4.172c-0.53,0-1.039-0.211-1.414-0.586L25,47     H32z"/>
+		</g>
+		<g>
+			<rect x="8" y="44" class="st11" width="48" height="1"/>
+		</g>
+	</g>
+	<g>
+		<path class="st2" d="M28.875,41h-8c-0.552,0-1-0.448-1-1v-2c0-0.552,0.448-1,1-1h8c0.552,0,1,0.448,1,1v2    C29.875,40.552,29.427,41,28.875,41z"/>
+	</g>
+	<g>
+		<path class="st4" d="M43,41h-8c-0.552,0-1-0.448-1-1v-2c0-0.552,0.448-1,1-1h8c0.552,0,1,0.448,1,1v2C44,40.552,43.552,41,43,41z"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<rect x="12" y="27" class="st6" width="4" height="4"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<rect x="18" y="26" class="st6" width="4" height="6"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<rect x="30" y="23" class="st6" width="4" height="9"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<rect x="42" y="21" class="st6" width="4" height="11"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<rect x="48" y="18" class="st6" width="4" height="14"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<rect x="24" y="27" class="st6" width="4" height="3"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<rect x="36" y="24" class="st6" width="4" height="4"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<rect x="13.5" y="25" class="st0" width="1" height="2"/>
+		</g>
+		<g>
+			<rect x="13.5" y="31" class="st0" width="1" height="2"/>
+		</g>
+		<g>
+			<rect x="19.5" y="32" class="st0" width="1" height="2"/>
+		</g>
+		<g>
+			<rect x="19.5" y="24" class="st0" width="1" height="2"/>
+		</g>
+		<g>
+			<rect x="25.5" y="30" class="st0" width="1" height="2"/>
+		</g>
+		<g>
+			<rect x="25.5" y="25" class="st0" width="1" height="2"/>
+		</g>
+		<g>
+			<rect x="31.5" y="32" class="st0" width="1" height="2"/>
+		</g>
+		<g>
+			<rect x="31.5" y="21" class="st0" width="1" height="2"/>
+		</g>
+		<g>
+			<rect x="37.5" y="28" class="st0" width="1" height="2"/>
+		</g>
+		<g>
+			<rect x="37.5" y="22" class="st0" width="1" height="2"/>
+		</g>
+		<g>
+			<rect x="43.5" y="32" class="st0" width="1" height="2"/>
+		</g>
+		<g>
+			<rect x="49.5" y="32" class="st0" width="1" height="2"/>
+		</g>
+		<g>
+			<rect x="43.5" y="19" class="st0" width="1" height="2"/>
+		</g>
+		<g>
+			<rect x="49.5" y="16" class="st0" width="1" height="2"/>
+		</g>
+	</g>
+</g>
+</svg>

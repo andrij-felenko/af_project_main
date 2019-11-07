@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icon/dataAndGraphs">
+        <file>analytics.svg</file>
+        <file>analytics_1.svg</file>
+        <file>analytics_10.svg</file>
+        <file>analytics_11.svg</file>
+        <file>analytics_12.svg</file>
+        <file>analytics_13.svg</file>
+        <file>analytics_14.svg</file>
+        <file>analytics_15.svg</file>
+        <file>analytics_16.svg</file>
+        <file>analytics_17.svg</file>
+        <file>analytics_18.svg</file>
+        <file>analytics_19.svg</file>
+        <file>analytics_2.svg</file>
+        <file>analytics_3.svg</file>
+        <file>analytics_4.svg</file>
+        <file>analytics_5.svg</file>
+        <file>analytics_6.svg</file>
+        <file>analytics_7.svg</file>
+        <file>analytics_8.svg</file>
+        <file>analytics_9.svg</file>
+    </qresource>
+</RCC>

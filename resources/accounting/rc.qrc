@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icon/accounting">
+        <file>abacus.svg</file>
+        <file>analytics.svg</file>
+        <file>analytics_1.svg</file>
+        <file>analytics_2.svg</file>
+        <file>analytics_3.svg</file>
+        <file>archive.svg</file>
+        <file>bar_chart.svg</file>
+        <file>bar_chart_1.svg</file>
+        <file>calculator.svg</file>
+        <file>calculator_1.svg</file>
+        <file>check.svg</file>
+        <file>check_1.svg</file>
+        <file>formula.svg</file>
+        <file>invoice.svg</file>
+        <file>invoice_1.svg</file>
+        <file>online_banking.svg</file>
+        <file>payment_day.svg</file>
+        <file>piggy_bank.svg</file>
+        <file>presentation.svg</file>
+        <file>profits.svg</file>
+        <file>profits_1.svg</file>
+        <file>research.svg</file>
+        <file>safebox.svg</file>
+        <file>safebox_1.svg</file>
+        <file>scale.svg</file>
+        <file>search.svg</file>
+        <file>search_1.svg</file>
+        <file>sort.svg</file>
+        <file>sort_1.svg</file>
+        <file>symbol.svg</file>
+    </qresource>
+</RCC>

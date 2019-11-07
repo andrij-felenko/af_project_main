@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icon/financeAndAccounting">
+        <file>atm.svg</file>
+        <file>bank.svg</file>
+        <file>budget.svg</file>
+        <file>calculator.svg</file>
+        <file>check.svg</file>
+        <file>credit_card.svg</file>
+        <file>dollar.svg</file>
+        <file>exchange.svg</file>
+        <file>exchange_1.svg</file>
+        <file>ico.svg</file>
+        <file>insurance.svg</file>
+        <file>interest_rate.svg</file>
+        <file>money.svg</file>
+        <file>money_1.svg</file>
+        <file>money_bag.svg</file>
+        <file>monitoring.svg</file>
+        <file>online_banking.svg</file>
+        <file>online_banking_1.svg</file>
+        <file>password.svg</file>
+        <file>payment.svg</file>
+        <file>phone.svg</file>
+        <file>profit.svg</file>
+        <file>resume.svg</file>
+        <file>safe_box.svg</file>
+        <file>secure.svg</file>
+        <file>statistics.svg</file>
+        <file>tax.svg</file>
+        <file>transfer.svg</file>
+        <file>transfer_1.svg</file>
+        <file>wallet.svg</file>
+    </qresource>
+</RCC>
