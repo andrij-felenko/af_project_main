@@ -1,0 +1,32 @@
+[submodule "base_af"]
+	path = base_af
+	url = https://andrij_felenko@bitbucket.org/andrij_team/base-af.git
+	branch = master
+[submodule "projects/currency"]
+	path = projects/currency
+	url = https://andrij_felenko@bitbucket.org/andrij_team/currency.git
+	branch = master
+[submodule "projects/pocket_munnin"]
+	path = projects/pocket_munnin
+	url = https://andrij_felenko@bitbucket.org/andrij_team/pocket-munnin.git
+	branch = master
+[submodule "projects/swan_test"]
+	path = projects/swan_test
+	url = https://andrij_felenko@bitbucket.org/andrij_team/swan-test.git
+	branch = master
+[submodule "projects/tsmok"]
+	path = projects/tsmok
+	url = https://andrij_felenko@bitbucket.org/andrij_team/tsmok.git
+	branch = master
+[submodule "projects/eshi"]
+	path = projects/eshi
+	url = https://andrij_felenko@bitbucket.org/andrij_team/eshi.git
+	branch = master
+[submodule "projects/warehouse_tsd"]
+	path = projects/warehouse_tsd
+	url = https://andrij_felenko@bitbucket.org/andrij_team/warehouse_tsd_app.git
+	branch = master
+[submodule "utilities/parse_flaticon"]
+	path = utilities/parse_flaticon
+	url = https://andrij_felenko@bitbucket.org/andrij_team/parse-flaticon.git
+	branch = master
