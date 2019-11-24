@@ -1,0 +1,4 @@
+add_subdirectory(http_parser)
+add_subdirectory(http_server)
+add_subdirectory(ssl_server)
+add_subdirectory(test_qhttpserver)
