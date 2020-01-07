@@ -1,0 +1,94 @@
+<RCC>
+    <qresource prefix="/icon/warehouse">
+        <file>001-warehouse.svg</file>
+        <file>002-warehouse.svg</file>
+        <file>003-warehouse.svg</file>
+        <file>004-shipping.svg</file>
+        <file>005-barrel.svg</file>
+        <file>006-open box.svg</file>
+        <file>007-shipping.svg</file>
+        <file>008-shipping.svg</file>
+        <file>009-shipping.svg</file>
+        <file>010-box.svg</file>
+        <file>011-warehouse.svg</file>
+        <file>012-warehouse.svg</file>
+        <file>013-warehouse.svg</file>
+        <file>014-container.svg</file>
+        <file>015-container.svg</file>
+        <file>016-container.svg</file>
+        <file>017-conveyor belt.svg</file>
+        <file>018-crane.svg</file>
+        <file>019-parcel.svg</file>
+        <file>020-warehouse.svg</file>
+        <file>021-warehouse.svg</file>
+        <file>022-warehouse.svg</file>
+        <file>023-forklift.svg</file>
+        <file>024-forklift.svg</file>
+        <file>025-forklift.svg</file>
+        <file>026-hook.svg</file>
+        <file>027-warehouse.svg</file>
+        <file>028-warehouse.svg</file>
+        <file>029-warehouse.svg</file>
+        <file>030-kg.svg</file>
+        <file>031-weight.svg</file>
+        <file>032-container.svg</file>
+        <file>033-warehouse.svg</file>
+        <file>034-warehouse.svg</file>
+        <file>035-warehouse.svg</file>
+        <file>036-oil barrel.svg</file>
+        <file>037-open box.svg</file>
+        <file>038-open box.svg</file>
+        <file>039-pallet.svg</file>
+        <file>040-pallet.svg</file>
+        <file>041-pallet.svg</file>
+        <file>042-pallet.svg</file>
+        <file>043-pallet.svg</file>
+        <file>044-pallet.svg</file>
+        <file>045-push cart.svg</file>
+        <file>046-rack.svg</file>
+        <file>047-scale.svg</file>
+        <file>048-container.svg</file>
+        <file>049-storage.svg</file>
+        <file>050-storage.svg</file>
+        <file>051-warehouse.svg</file>
+        <file>052-international shipping.svg</file>
+        <file>053-warehouse.svg</file>
+        <file>054-warehouse.svg</file>
+        <file>055-warehouse.svg</file>
+        <file>056-warehouse.svg</file>
+        <file>057-warehouse.svg</file>
+        <file>058-warehouse.svg</file>
+        <file>059-warehouse.svg</file>
+        <file>060-warehouse.svg</file>
+        <file>061-warehouse.svg</file>
+        <file>062-warehouse.svg</file>
+        <file>063-cart.svg</file>
+        <file>064-cart.svg</file>
+        <file>065-cart.svg</file>
+        <file>066-trolley.svg</file>
+        <file>067-waggon.svg</file>
+        <file>068-waggon.svg</file>
+        <file>069-warehouse.svg</file>
+        <file>070-warehouse.svg</file>
+        <file>071-warehouse.svg</file>
+        <file>072-warehouse.svg</file>
+        <file>073-warehouse.svg</file>
+        <file>074-warehouse.svg</file>
+        <file>075-international shipping.svg</file>
+        <file>076-warehouse.svg</file>
+        <file>077-warehouse.svg</file>
+        <file>078-warehouse.svg</file>
+        <file>079-warehouse.svg</file>
+        <file>080-warehouse.svg</file>
+        <file>081-warehouse.svg</file>
+        <file>082-warehouse.svg</file>
+        <file>083-warehouse.svg</file>
+        <file>084-warehouse.svg</file>
+        <file>085-warehouse.svg</file>
+        <file>086-warehouse.svg</file>
+        <file>087-warehouse.svg</file>
+        <file>088-warehouse.svg</file>
+        <file>089-wooden box.svg</file>
+        <file>090-wooden box.svg</file>
+    </qresource>
+</RCC>
