@@ -39,7 +39,7 @@ QT_BEGIN_NAMESPACE
 class QJsonObject;
 
 class QHttpServerResponsePrivate;
-class Q_HTTPSERVER_EXPORT QHttpServerResponse
+class QHttpServerResponse
 {
     Q_DECLARE_PRIVATE(QHttpServerResponse)
 

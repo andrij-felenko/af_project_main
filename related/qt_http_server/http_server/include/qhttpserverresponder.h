@@ -49,7 +49,7 @@ class QTcpSocket;
 class QHttpServerRequest;
 
 class QHttpServerResponderPrivate;
-class Q_HTTPSERVER_EXPORT QHttpServerResponder final
+class QHttpServerResponder final
 {
     Q_DECLARE_PRIVATE(QHttpServerResponder)
 

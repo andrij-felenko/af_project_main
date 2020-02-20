@@ -43,7 +43,7 @@ class QRegularExpressionMatch;
 class QHttpServerRouter;
 
 class QHttpServerRouterRulePrivate;
-class Q_HTTPSERVER_EXPORT QHttpServerRouterRule
+class QHttpServerRouterRule
 {
     Q_DECLARE_PRIVATE(QHttpServerRouterRule)
 

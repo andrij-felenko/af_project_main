@@ -15,6 +15,7 @@ find_package(Qt5Core)
 find_package(Qt5Network)
 
 add_library(qt_ssl_server SHARED ${qt_ssl_server_h} ${qt_ssl_server_cpp})
+set(CMAKE_AUTOMOC ON)
 
 target_link_libraries(qt_ssl_server Qt5::Core Qt5::Network)
 target_include_directories(qt_ssl_server

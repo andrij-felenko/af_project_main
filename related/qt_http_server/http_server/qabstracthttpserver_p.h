@@ -53,7 +53,7 @@ QT_BEGIN_NAMESPACE
 
 class QHttpServerRequest;
 
-class Q_HTTPSERVER_EXPORT QAbstractHttpServerPrivate: public QObjectPrivate
+class QAbstractHttpServerPrivate: public QObjectPrivate
 {
     Q_DECLARE_PUBLIC(QAbstractHttpServer)
 
