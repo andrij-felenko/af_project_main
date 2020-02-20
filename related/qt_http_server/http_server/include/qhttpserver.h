@@ -44,7 +44,7 @@ class QTcpSocket;
 class QHttpServerRequest;
 
 class QHttpServerPrivate;
-class Q_HTTPSERVER_EXPORT QHttpServer final : public QAbstractHttpServer
+class QHttpServer final : public QAbstractHttpServer
 {
     Q_OBJECT
     Q_DECLARE_PRIVATE(QHttpServer)

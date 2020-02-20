@@ -49,7 +49,7 @@ class QTcpSocket;
 class QWebSocket;
 
 class QAbstractHttpServerPrivate;
-class Q_HTTPSERVER_EXPORT QAbstractHttpServer : public QObject
+class QAbstractHttpServer : public QObject
 {
     Q_OBJECT
 

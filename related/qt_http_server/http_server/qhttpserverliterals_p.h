@@ -46,7 +46,7 @@
 
 QT_BEGIN_NAMESPACE
 
-class Q_HTTPSERVER_EXPORT QHttpServerLiterals
+class QHttpServerLiterals
 {
 
 public:

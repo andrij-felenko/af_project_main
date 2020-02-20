@@ -28,6 +28,7 @@
 ****************************************************************************/
 
 #include "qsslserver_p.h"
+#include "include/qsslserver.h"
 
 #include <QtCore/qloggingcategory.h>
 
@@ -38,6 +39,7 @@ Q_LOGGING_CATEGORY(lcSS, "qt.sslserver");
 QSslServer::QSslServer(QObject *parent):
     QTcpServer (QAbstractSocket::TcpSocket, *new QSslServerPrivate, parent)
 {
+    //
 }
 
 QSslServer::QSslServer(const QSslConfiguration &sslConfiguration,

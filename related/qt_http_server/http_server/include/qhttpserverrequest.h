@@ -45,7 +45,7 @@ class QString;
 class QTcpSocket;
 
 class QHttpServerRequestPrivate;
-class Q_HTTPSERVER_EXPORT QHttpServerRequest
+class QHttpServerRequest
 {
     friend class QAbstractHttpServerPrivate;
     friend class QHttpServerResponse;
@@ -93,7 +93,7 @@ private:
     Q_DISABLE_COPY(QHttpServerRequest)
 
 #if !defined(QT_NO_DEBUG_STREAM)
-    friend Q_HTTPSERVER_EXPORT QDebug operator<<(QDebug debug, const QHttpServerRequest &request);
+    friend QDebug operator<<(QDebug debug, const QHttpServerRequest &request);
 #endif
 
     explicit QHttpServerRequest(const QHostAddress &remoteAddress);

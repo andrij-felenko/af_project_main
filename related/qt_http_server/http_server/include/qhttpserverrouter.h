@@ -64,7 +64,7 @@ class QHttpServerRequest;
 class QHttpServerRouterRule;
 
 class QHttpServerRouterPrivate;
-class Q_HTTPSERVER_EXPORT QHttpServerRouter
+class QHttpServerRouter
 {
     Q_DECLARE_PRIVATE(QHttpServerRouter)
 

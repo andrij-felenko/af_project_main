@@ -38,7 +38,7 @@
 QT_BEGIN_NAMESPACE
 
 class QSslServerPrivate;
-class Q_SSLSERVER_EXPORT QSslServer : public QTcpServer
+class QSslServer : public QTcpServer
 {
     Q_OBJECT
 public:
