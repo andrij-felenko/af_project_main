@@ -30,3 +30,7 @@
 	path = utilities/parse_flaticon
 	url = https://andrij_felenko@bitbucket.org/andrij_team/parse-flaticon.git
 	branch = master
+[submodule "projects/latinka_translitterator"]
+	path = projects/latinka_translitterator
+	url = https://andrij_felenko@bitbucket.org/andrij_felenko/latinka_translitterator.git
+	branch = master
