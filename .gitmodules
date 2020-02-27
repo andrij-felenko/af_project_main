@@ -34,3 +34,6 @@
 	path = projects/latinka_translitterator
 	url = https://andrij_felenko@bitbucket.org/andrij_felenko/latinka_translitterator.git
 	branch = master
+[submodule "related/boost"]
+	path = related/boost
+	url = https://github.com/boostorg/boost.git
