@@ -1,1 +1,2 @@
 add_subdirectory(parse_flaticon)
+add_subdirectory(test_filesystem)
