@@ -2,15 +2,15 @@ cmake_minimum_required(VERSION 3.14)
 project(qt_http_server)
 
 set (qt_http_server_h
-    include/qthttpserverglobal.h
-    include/qabstracthttpserver.h
-    include/qhttpserver.h
-    include/qhttpserverrequest.h
-    include/qhttpserverresponder.h
-    include/qhttpserverresponse.h
-    include/qhttpserverrouter.h
-    include/qhttpserverrouterrule.h
-    include/qhttpserverrouterviewtraits.h
+    include/QtHttpServer/qthttpserverglobal.h
+    include/QtHttpServer/qabstracthttpserver.h
+    include/QtHttpServer/qhttpserver.h
+    include/QtHttpServer/qhttpserverrequest.h
+    include/QtHttpServer/qhttpserverresponder.h
+    include/QtHttpServer/qhttpserverresponse.h
+    include/QtHttpServer/qhttpserverrouter.h
+    include/QtHttpServer/qhttpserverrouterrule.h
+    include/QtHttpServer/qhttpserverrouterviewtraits.h
     )
 
 set (qt_http_server_private
@@ -45,4 +45,5 @@ target_include_directories(qt_http_server
     PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include
     PUBLIC $<TARGET_PROPERTY:qt_ssl_server,INTERFACE_INCLUDE_DIRECTORIES>
     PUBLIC $<TARGET_PROPERTY:http_parser,INTERFACE_INCLUDE_DIRECTORIES>
+    PRIVATE include/QtHttpServer
     PRIVATE ${Qt5Core_PRIVATE_INCLUDE_DIRS})

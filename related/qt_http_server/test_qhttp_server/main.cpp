@@ -1,6 +1,5 @@
 #include <QtCore>
-#include "qhttpserverrequest.h"
-#include "qhttpserver.h"
+#include <QtHttpServer/QHttpServer>
 
 static inline QString host(const QHttpServerRequest &request)
 {
