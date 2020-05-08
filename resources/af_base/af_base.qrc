@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon/af_base">
+        <file>af_logo.svg</file>
+        <file>af_logo_migo.svg</file>
+        <file>af_logo_migo_light.svg</file>
+    </qresource>
+</RCC>

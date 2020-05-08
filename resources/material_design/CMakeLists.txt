@@ -3,5 +3,5 @@ project(rc_material_design VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_material_design rc.qrc)
+add_library(rc_material_design rc_material_design.qrc)
 target_link_libraries(rc_material_design Qt5::Core)
