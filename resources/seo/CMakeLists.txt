@@ -3,5 +3,5 @@ project(rc_seo VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_seo rc.qrc)
+add_library(rc_seo rc_seo.qrc)
 target_link_libraries(rc_seo Qt5::Core)

@@ -3,5 +3,5 @@ project(rc_newsMedia VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_newsMedia rc.qrc)
+add_library(rc_newsMedia rc_newsMedia.qrc)
 target_link_libraries(rc_newsMedia Qt5::Core)

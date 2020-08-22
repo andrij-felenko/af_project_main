@@ -3,5 +3,5 @@ project(rc_realEstate VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_realEstate rc.qrc)
+add_library(rc_realEstate rc_realEstate.qrc)
 target_link_libraries(rc_realEstate Qt5::Core)

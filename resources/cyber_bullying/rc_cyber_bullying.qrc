@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icon/cyber_bullying">
+        <file>blackmail.svg</file>
+        <file>block.svg</file>
+        <file>bully.svg</file>
+        <file>cyber_bullying.svg</file>
+        <file>cyber_bullying_1.svg</file>
+        <file>cyber_bullying_2.svg</file>
+        <file>family.svg</file>
+        <file>gossip.svg</file>
+        <file>haters.svg</file>
+        <file>insomnia.svg</file>
+        <file>no_mobile_phone.svg</file>
+        <file>notifications.svg</file>
+        <file>report.svg</file>
+        <file>sexting.svg</file>
+        <file>sexting_1.svg</file>
+        <file>social_media.svg</file>
+        <file>stop_bullying.svg</file>
+        <file>suicide.svg</file>
+        <file>true_or_false.svg</file>
+        <file>victim.svg</file>
+    </qresource>
+</RCC>

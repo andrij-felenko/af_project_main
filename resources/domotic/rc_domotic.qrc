@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icon/domotic">
+        <file>cctv.svg</file>
+        <file>coffee_machine.svg</file>
+        <file>controls.svg</file>
+        <file>cpu.svg</file>
+        <file>domotics.svg</file>
+        <file>domotics_2.svg</file>
+        <file>door_knob.svg</file>
+        <file>fridge.svg</file>
+        <file>garage.svg</file>
+        <file>light_bulb.svg</file>
+        <file>lights.svg</file>
+        <file>plug.svg</file>
+        <file>plug_2.svg</file>
+        <file>remote_control.svg</file>
+        <file>remote_control_.svg</file>
+        <file>smart_house.svg</file>
+        <file>smart_lock.svg</file>
+        <file>sprinklers.svg</file>
+        <file>thermostat.svg</file>
+        <file>wifi.svg</file>
+    </qresource>
+</RCC>

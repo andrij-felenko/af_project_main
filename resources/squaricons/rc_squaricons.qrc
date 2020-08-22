@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/icon/squaricons">
+        <file>after_effects.svg</file>
+        <file>ai.svg</file>
+        <file>alarm_clock.svg</file>
+        <file>calendar.svg</file>
+        <file>cloud_computing.svg</file>
+        <file>cloud_computing_1.svg</file>
+        <file>dw.svg</file>
+        <file>gift.svg</file>
+        <file>headphones.svg</file>
+        <file>heart.svg</file>
+        <file>line_chart.svg</file>
+        <file>map.svg</file>
+        <file>medal.svg</file>
+        <file>paint.svg</file>
+        <file>pdf.svg</file>
+        <file>pencil.svg</file>
+        <file>picture.svg</file>
+        <file>placeholder.svg</file>
+        <file>printer.svg</file>
+        <file>ps.svg</file>
+        <file>rocket_ship.svg</file>
+        <file>ruler.svg</file>
+        <file>safebox.svg</file>
+        <file>scissors.svg</file>
+        <file>settings.svg</file>
+        <file>sound.svg</file>
+        <file>spaceship.svg</file>
+        <file>sun.svg</file>
+        <file>tablet.svg</file>
+        <file>target.svg</file>
+        <file>water_drop.svg</file>
+        <file>zoom_in.svg</file>
+        <file>zoom_out.svg</file>
+    </qresource>
+</RCC>

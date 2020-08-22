@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icon/biometrics">
+        <file>dna_strand.svg</file>
+        <file>eye_scan.svg</file>
+        <file>eye_scan_1.svg</file>
+        <file>eye_scan_2.svg</file>
+        <file>eye_scan_3.svg</file>
+        <file>eye_scan_4.svg</file>
+        <file>facial_recognition.svg</file>
+        <file>facial_recognition_1.svg</file>
+        <file>facial_recognition_2.svg</file>
+        <file>facial_recognition_3.svg</file>
+        <file>facial_recognition_4.svg</file>
+        <file>facial_recognition_5.svg</file>
+        <file>facial_recognition_6.svg</file>
+        <file>fingerprint.svg</file>
+        <file>fingerprint_1.svg</file>
+        <file>fingerprint_10.svg</file>
+        <file>fingerprint_11.svg</file>
+        <file>fingerprint_12.svg</file>
+        <file>fingerprint_2.svg</file>
+        <file>fingerprint_3.svg</file>
+        <file>fingerprint_4.svg</file>
+        <file>fingerprint_5.svg</file>
+        <file>fingerprint_6.svg</file>
+        <file>fingerprint_7.svg</file>
+        <file>fingerprint_8.svg</file>
+        <file>fingerprint_9.svg</file>
+        <file>fingerprint_scan.svg</file>
+        <file>scan.svg</file>
+        <file>voice_recognition.svg</file>
+        <file>voice_recognition_1.svg</file>
+    </qresource>
+</RCC>

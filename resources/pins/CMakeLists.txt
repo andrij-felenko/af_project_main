@@ -3,5 +3,5 @@ project(rc_pins VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_pins rc.qrc)
+add_library(rc_pins rc_pins.qrc)
 target_link_libraries(rc_pins Qt5::Core)

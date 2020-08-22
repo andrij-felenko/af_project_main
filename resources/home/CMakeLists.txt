@@ -3,5 +3,5 @@ project(rc_home VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_home rc.qrc)
+add_library(rc_home rc_home.qrc)
 target_link_libraries(rc_home Qt5::Core)

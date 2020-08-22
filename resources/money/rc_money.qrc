@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icon/money">
+        <file>atm.svg</file>
+        <file>balance.svg</file>
+        <file>bank.svg</file>
+        <file>bitcoin.svg</file>
+        <file>calculator.svg</file>
+        <file>chat.svg</file>
+        <file>credit_card.svg</file>
+        <file>dollar.svg</file>
+        <file>dollar_1.svg</file>
+        <file>euro.svg</file>
+        <file>exchange.svg</file>
+        <file>gold_ingots.svg</file>
+        <file>invoice.svg</file>
+        <file>loan.svg</file>
+        <file>money.svg</file>
+        <file>money_1.svg</file>
+        <file>mortgage.svg</file>
+        <file>payment.svg</file>
+        <file>payment_1.svg</file>
+        <file>payment_2.svg</file>
+        <file>payment_3.svg</file>
+        <file>safebox.svg</file>
+        <file>savings.svg</file>
+        <file>transfer.svg</file>
+        <file>truck.svg</file>
+        <file>wallet.svg</file>
+        <file>withdraw.svg</file>
+        <file>won.svg</file>
+        <file>yen.svg</file>
+        <file>yen_1.svg</file>
+    </qresource>
+</RCC>

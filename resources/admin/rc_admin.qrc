@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/icon/admin">
+        <file>budget.svg</file>
+        <file>budget_2.svg</file>
+        <file>calendar.svg</file>
+        <file>calendar_2.svg</file>
+        <file>candidate.svg</file>
+        <file>coding.svg</file>
+        <file>contacts.svg</file>
+        <file>dollar.svg</file>
+        <file>dollar_2.svg</file>
+        <file>employee.svg</file>
+        <file>euro.svg</file>
+        <file>euro_2.svg</file>
+        <file>filling_cabinet.svg</file>
+        <file>folder.svg</file>
+        <file>folder_2.svg</file>
+        <file>folder_3.svg</file>
+        <file>fuel.svg</file>
+        <file>health.svg</file>
+        <file>health_check.svg</file>
+        <file>id_card.svg</file>
+        <file>information.svg</file>
+        <file>it.svg</file>
+        <file>it_2.svg</file>
+        <file>mailbox.svg</file>
+        <file>maternity.svg</file>
+        <file>medical.svg</file>
+        <file>medical_2.svg</file>
+        <file>meeting_room.svg</file>
+        <file>payday.svg</file>
+        <file>preferences.svg</file>
+        <file>schedule.svg</file>
+        <file>sign_form.svg</file>
+        <file>system.svg</file>
+        <file>time.svg</file>
+        <file>time_2.svg</file>
+        <file>time_management.svg</file>
+        <file>travel.svg</file>
+        <file>travel_2.svg</file>
+        <file>user.svg</file>
+        <file>voice_mail.svg</file>
+    </qresource>
+</RCC>

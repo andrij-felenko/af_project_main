@@ -3,5 +3,5 @@ project(rc_cyberMonday VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_cyberMonday rc.qrc)
+add_library(rc_cyberMonday rc_cyberMonday.qrc)
 target_link_libraries(rc_cyberMonday Qt5::Core)

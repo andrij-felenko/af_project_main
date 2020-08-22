@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icon/worldLandmark">
+        <file>angkor_wat.svg</file>
+        <file>arc_de_triomphe.svg</file>
+        <file>badshahi_mosque.svg</file>
+        <file>big_ben.svg</file>
+        <file>borobudur.svg</file>
+        <file>brandenburg_gate.svg</file>
+        <file>burj_al_arab.svg</file>
+        <file>chichen_itza.svg</file>
+        <file>christ_the_redeemer.svg</file>
+        <file>eiffel_tower.svg</file>
+        <file>empire_state_building.svg</file>
+        <file>golden_gate_bridge.svg</file>
+        <file>great_buddha_of_thailand.svg</file>
+        <file>great_wall_of_china.svg</file>
+        <file>hollywood.svg</file>
+        <file>kaaba.svg</file>
+        <file>kinderdijk_windmills.svg</file>
+        <file>leaning_tower_of_pisa.svg</file>
+        <file>merlion.svg</file>
+        <file>milan_cathedral.svg</file>
+        <file>moai.svg</file>
+        <file>petronas_twin_tower.svg</file>
+        <file>prambanan.svg</file>
+        <file>pyramids.svg</file>
+        <file>stonehenge.svg</file>
+        <file>taipei_101.svg</file>
+        <file>taj_mahal.svg</file>
+        <file>torii_gate.svg</file>
+        <file>tower_bridge.svg</file>
+        <file>white_house.svg</file>
+    </qresource>
+</RCC>

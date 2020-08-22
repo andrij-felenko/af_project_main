@@ -3,5 +3,5 @@ project(rc_audio_set VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_audio_set rc.qrc)
+add_library(rc_audio_set rc_audio_set.qrc)
 target_link_libraries(rc_audio_set Qt5::Core)

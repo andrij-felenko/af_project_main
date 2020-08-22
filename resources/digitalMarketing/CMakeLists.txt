@@ -3,5 +3,5 @@ project(rc_digitalMarketing VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_digitalMarketing rc.qrc)
+add_library(rc_digitalMarketing rc_digitalMarketing.qrc)
 target_link_libraries(rc_digitalMarketing Qt5::Core)

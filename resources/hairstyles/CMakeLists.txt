@@ -3,5 +3,5 @@ project(rc_hairstyles VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_hairstyles rc.qrc)
+add_library(rc_hairstyles rc_hairstyles.qrc)
 target_link_libraries(rc_hairstyles Qt5::Core)

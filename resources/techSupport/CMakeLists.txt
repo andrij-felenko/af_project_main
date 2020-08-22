@@ -3,5 +3,5 @@ project(rc_techSupport VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_techSupport rc.qrc)
+add_library(rc_techSupport rc_techSupport.qrc)
 target_link_libraries(rc_techSupport Qt5::Core)

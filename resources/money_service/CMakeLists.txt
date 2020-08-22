@@ -3,5 +3,5 @@ project(rc_money_service VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_money_service rc.qrc)
+add_library(rc_money_service rc_money_service.qrc)
 target_link_libraries(rc_money_service Qt5::Core)

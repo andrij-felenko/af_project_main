@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/icon/origami">
+        <file>bird.svg</file>
+        <file>boat.svg</file>
+        <file>boat_1.svg</file>
+        <file>butterfly.svg</file>
+        <file>camel.svg</file>
+        <file>cat.svg</file>
+        <file>crab.svg</file>
+        <file>dog.svg</file>
+        <file>elephant.svg</file>
+        <file>fish.svg</file>
+        <file>flower.svg</file>
+        <file>flower_1.svg</file>
+        <file>flower_2.svg</file>
+        <file>flower_3.svg</file>
+        <file>flower_4.svg</file>
+        <file>fold.svg</file>
+        <file>fold_1.svg</file>
+        <file>fold_2.svg</file>
+        <file>fold_3.svg</file>
+        <file>fold_4.svg</file>
+        <file>fold_5.svg</file>
+        <file>fold_6.svg</file>
+        <file>fold_7.svg</file>
+        <file>fold_8.svg</file>
+        <file>fox.svg</file>
+        <file>fox_1.svg</file>
+        <file>frog.svg</file>
+        <file>heart.svg</file>
+        <file>kite.svg</file>
+        <file>mouse.svg</file>
+        <file>penguin.svg</file>
+        <file>pig.svg</file>
+        <file>pinwheel.svg</file>
+        <file>rabbit.svg</file>
+        <file>rabbit_1.svg</file>
+        <file>seal.svg</file>
+        <file>star.svg</file>
+        <file>swan.svg</file>
+        <file>tulip.svg</file>
+        <file>turtle.svg</file>
+    </qresource>
+</RCC>

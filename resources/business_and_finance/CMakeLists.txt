@@ -3,5 +3,5 @@ project(rc_business_and_finance VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_business_and_finance rc.qrc)
+add_library(rc_business_and_finance rc_business_and_finance.qrc)
 target_link_libraries(rc_business_and_finance Qt5::Core)

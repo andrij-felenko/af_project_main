@@ -3,5 +3,5 @@ project(rc_science_1 VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_science_1 rc.qrc)
+add_library(rc_science_1 rc_science_1.qrc)
 target_link_libraries(rc_science_1 Qt5::Core)

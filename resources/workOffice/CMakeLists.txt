@@ -3,5 +3,5 @@ project(rc_workOffice VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_workOffice rc.qrc)
+add_library(rc_workOffice rc_workOffice.qrc)
 target_link_libraries(rc_workOffice Qt5::Core)

@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/icon/city_park">
+        <file>bench.svg</file>
+        <file>bike.svg</file>
+        <file>bin.svg</file>
+        <file>bridge.svg</file>
+        <file>bus_stop.svg</file>
+        <file>butterfly.svg</file>
+        <file>coffee_shop.svg</file>
+        <file>directions.svg</file>
+        <file>dog.svg</file>
+        <file>family.svg</file>
+        <file>flowers.svg</file>
+        <file>food_cart.svg</file>
+        <file>food_truck.svg</file>
+        <file>forest.svg</file>
+        <file>fountain.svg</file>
+        <file>fountain_1.svg</file>
+        <file>fountain_2.svg</file>
+        <file>garden.svg</file>
+        <file>kiosk.svg</file>
+        <file>lake.svg</file>
+        <file>machine.svg</file>
+        <file>newspaper.svg</file>
+        <file>park.svg</file>
+        <file>park_1.svg</file>
+        <file>park_2.svg</file>
+        <file>picnic.svg</file>
+        <file>playground.svg</file>
+        <file>policeman.svg</file>
+        <file>popcorn_cart.svg</file>
+        <file>runner.svg</file>
+        <file>seesaw.svg</file>
+        <file>slider.svg</file>
+        <file>squirrel.svg</file>
+        <file>statue.svg</file>
+        <file>swing.svg</file>
+        <file>toilet.svg</file>
+    </qresource>
+</RCC>

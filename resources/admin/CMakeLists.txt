@@ -3,5 +3,5 @@ project(rc_admin VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_admin rc.qrc)
+add_library(rc_admin rc_admin.qrc)
 target_link_libraries(rc_admin Qt5::Core)

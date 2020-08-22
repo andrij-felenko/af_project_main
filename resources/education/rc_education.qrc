@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/icon/education">
+        <file>abacus.svg</file>
+        <file>acoustic_guitar.svg</file>
+        <file>alarm_clock.svg</file>
+        <file>audio.svg</file>
+        <file>biology.svg</file>
+        <file>book.svg</file>
+        <file>brainstorm.svg</file>
+        <file>calculation.svg</file>
+        <file>chat.svg</file>
+        <file>conference.svg</file>
+        <file>desktop.svg</file>
+        <file>email.svg</file>
+        <file>email_1.svg</file>
+        <file>ereader.svg</file>
+        <file>ereader_1.svg</file>
+        <file>ereader_2.svg</file>
+        <file>football.svg</file>
+        <file>graduate.svg</file>
+        <file>id_card.svg</file>
+        <file>laptop.svg</file>
+        <file>law.svg</file>
+        <file>learning.svg</file>
+        <file>lecture.svg</file>
+        <file>lecture_1.svg</file>
+        <file>library.svg</file>
+        <file>notebook.svg</file>
+        <file>painting_palette.svg</file>
+        <file>printer.svg</file>
+        <file>smartphone.svg</file>
+        <file>student.svg</file>
+        <file>studying.svg</file>
+        <file>video_chat.svg</file>
+        <file>violin.svg</file>
+        <file>workspace.svg</file>
+        <file>writing.svg</file>
+    </qresource>
+</RCC>

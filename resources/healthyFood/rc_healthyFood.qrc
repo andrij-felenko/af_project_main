@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icon/healthyFood">
+        <file>almond.svg</file>
+        <file>almond_milk.svg</file>
+        <file>apple_juice.svg</file>
+        <file>avocado.svg</file>
+        <file>cheese.svg</file>
+        <file>eating.svg</file>
+        <file>eating_1.svg</file>
+        <file>grain.svg</file>
+        <file>hazelnut.svg</file>
+        <file>ice_cream.svg</file>
+        <file>jam.svg</file>
+        <file>lemons.svg</file>
+        <file>maple_syrup.svg</file>
+        <file>oil.svg</file>
+        <file>olive_oil.svg</file>
+        <file>peanut_butter.svg</file>
+        <file>pickle.svg</file>
+        <file>red_beans.svg</file>
+        <file>salad.svg</file>
+        <file>salad_1.svg</file>
+        <file>soy_flour.svg</file>
+        <file>soy_milk.svg</file>
+        <file>soy_sauce.svg</file>
+        <file>spinach.svg</file>
+        <file>tofu.svg</file>
+        <file>tofu_1.svg</file>
+        <file>tofu_2.svg</file>
+        <file>vegan.svg</file>
+        <file>vegetables.svg</file>
+        <file>yogurt.svg</file>
+    </qresource>
+</RCC>

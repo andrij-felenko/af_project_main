@@ -3,5 +3,5 @@ project(rc_teamwork VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_teamwork rc.qrc)
+add_library(rc_teamwork rc_teamwork.qrc)
 target_link_libraries(rc_teamwork Qt5::Core)

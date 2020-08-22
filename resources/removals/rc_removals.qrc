@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icon/removals">
+        <file>box.svg</file>
+        <file>box_1.svg</file>
+        <file>box_2.svg</file>
+        <file>box_3.svg</file>
+        <file>box_4.svg</file>
+        <file>box_5.svg</file>
+        <file>boxes.svg</file>
+        <file>boxes_1.svg</file>
+        <file>checklist.svg</file>
+        <file>checklist_1.svg</file>
+        <file>contract.svg</file>
+        <file>garage.svg</file>
+        <file>house.svg</file>
+        <file>house_1.svg</file>
+        <file>magnifying_glass.svg</file>
+        <file>moving.svg</file>
+        <file>moving_1.svg</file>
+        <file>moving_2.svg</file>
+        <file>moving_3.svg</file>
+        <file>moving_4.svg</file>
+        <file>moving_5.svg</file>
+        <file>moving_truck.svg</file>
+        <file>moving_truck_1.svg</file>
+        <file>moving_truck_2.svg</file>
+        <file>packing.svg</file>
+        <file>sofa.svg</file>
+        <file>street_map.svg</file>
+        <file>suitcase.svg</file>
+        <file>trolley.svg</file>
+        <file>utilities.svg</file>
+    </qresource>
+</RCC>

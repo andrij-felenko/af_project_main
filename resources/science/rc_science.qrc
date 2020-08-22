@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icon/science">
+        <file>beaker.svg</file>
+        <file>burner.svg</file>
+        <file>cylinder.svg</file>
+        <file>dna.svg</file>
+        <file>flask.svg</file>
+        <file>flask_1.svg</file>
+        <file>flask_2.svg</file>
+        <file>flask_3.svg</file>
+        <file>flasks.svg</file>
+        <file>goggles.svg</file>
+        <file>idea.svg</file>
+        <file>microscope.svg</file>
+        <file>microscope_1.svg</file>
+        <file>nixie.svg</file>
+        <file>petri_dish.svg</file>
+        <file>radioactivity.svg</file>
+        <file>science_book.svg</file>
+        <file>telescope.svg</file>
+        <file>test_tube.svg</file>
+        <file>test_tubes.svg</file>
+    </qresource>
+</RCC>

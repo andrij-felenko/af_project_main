@@ -3,5 +3,5 @@ project(rc_oil_gas VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_oil_gas rc.qrc)
+add_library(rc_oil_gas rc_oil_gas.qrc)
 target_link_libraries(rc_oil_gas Qt5::Core)

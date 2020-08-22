@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icon/ancestry">
+        <file>celtic_foot.svg</file>
+        <file>cotton_swab.svg</file>
+        <file>dna.svg</file>
+        <file>dna_1.svg</file>
+        <file>dna_2.svg</file>
+        <file>earth_globe.svg</file>
+        <file>egyptian_foot.svg</file>
+        <file>family.svg</file>
+        <file>family_1.svg</file>
+        <file>family_2.svg</file>
+        <file>family_tree.svg</file>
+        <file>family_tree_1.svg</file>
+        <file>family_tree_2.svg</file>
+        <file>family_tree_3.svg</file>
+        <file>family_tree_4.svg</file>
+        <file>germanic_foot.svg</file>
+        <file>greek_foot.svg</file>
+        <file>roman_foot.svg</file>
+        <file>swab.svg</file>
+        <file>test_tube.svg</file>
+    </qresource>
+</RCC>

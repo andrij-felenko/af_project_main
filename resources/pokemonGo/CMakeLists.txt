@@ -3,5 +3,5 @@ project(rc_pokemonGo VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_pokemonGo rc.qrc)
+add_library(rc_pokemonGo rc_pokemonGo.qrc)
 target_link_libraries(rc_pokemonGo Qt5::Core)

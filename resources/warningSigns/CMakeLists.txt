@@ -3,5 +3,5 @@ project(rc_warningSigns VERSION 1.0.0)
 
 set (CMAKE_AUTORCC ON)
 find_package(Qt5Core)
-add_library(rc_warningSigns rc.qrc)
+add_library(rc_warningSigns rc_warningSigns.qrc)
 target_link_libraries(rc_warningSigns Qt5::Core)
