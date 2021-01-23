@@ -2,10 +2,10 @@
 # CMakeQt: CMake build system template for Qt based projects
 # Author: Andrij Felenko <andrij.felenko.develop@gmail.com>
 #
-cmake_minimum_required(VERSION 3.14)
+cmake_minimum_required(VERSION 3.19)
 
 # Project Info
-project(Andrij_Felenko_projects)
+project(Andrij_Felenko_projects LANGUAGES CXX)
 set(PROJECT_NAME_SHORT   "Andrij Felenko projects")
 set(PROJECT_NAME_LONG    "List of all current Andrij Felenko projects")
 set(PROJECT_DESCRIPTION  "CMake build system template for Qt based projects")
@@ -18,7 +18,6 @@ set(ORG_WEBSITE          "http://google.com")
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTORCC ON)
-set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin/lib)
 

@@ -35,15 +35,16 @@ set (qt_http_server_cpp
     qhttpserverrouterrule.cpp
     )
 
-find_package(Qt5Core)
-find_package(Qt5Network)
+set (CMAKE_AUTOMOC ON)
+find_package(Qt6Core)
+find_package(Qt6Network)
 
-add_library(qt_http_server SHARED ${qt_http_server_h} ${qt_http_server_cpp} ${qt_http_server_private})
+add_library(qt_http_server ${qt_http_server_h} ${qt_http_server_cpp} ${qt_http_server_private})
 
-target_link_libraries(qt_http_server qt_ssl_server http_parser Qt5::Core Qt5::Network)
+target_link_libraries(qt_http_server qt_ssl_server http_parser Qt6::Core Qt6::Network)
 target_include_directories(qt_http_server
     PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include
     PUBLIC $<TARGET_PROPERTY:qt_ssl_server,INTERFACE_INCLUDE_DIRECTORIES>
     PUBLIC $<TARGET_PROPERTY:http_parser,INTERFACE_INCLUDE_DIRECTORIES>
     PRIVATE include/QtHttpServer
-    PRIVATE ${Qt5Core_PRIVATE_INCLUDE_DIRS})
+    PRIVATE ${Qt6Core_PRIVATE_INCLUDE_DIRS})

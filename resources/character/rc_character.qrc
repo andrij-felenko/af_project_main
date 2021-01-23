@@ -1,6 +1,5 @@
 <RCC>
     <qresource prefix="/icon/character">
-        <file>024-Politician.svg</file>
         <file>alarm.svg</file>
         <file>alarm_1.svg</file>
         <file>architect.svg</file>
