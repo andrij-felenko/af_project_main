@@ -228,8 +228,9 @@ bool QHttpServerRouterRule::createPathRegexp(const std::initializer_list<int> &m
     const QLatin1String arg("<arg>");
     for (auto type : metaTypes) {
         if (type >= QMetaType::User
-            && !QMetaType::hasRegisteredConverterFunction(qMetaTypeId<QString>(), type)) {
-            qCWarning(lcRouterRule) << QMetaType::typeName(type)
+            && !QMetaType::hasRegisteredConverterFunction(static_cast <QMetaType> (qMetaTypeId<QString>()), static_cast <QMetaType>(type))) {
+            // FIXME typeName obsolete
+            qCWarning(lcRouterRule) << static_cast <QMetaType>(type).name()
                                     << "has not registered a converter to QString."
                                     << "Use QHttpServerRouter::addConveter<Type>(converter).";
             return false;
@@ -238,7 +239,7 @@ bool QHttpServerRouterRule::createPathRegexp(const std::initializer_list<int> &m
         auto it = converters.constFind(type);
         if (it == converters.end()) {
             qCWarning(lcRouterRule) << "can not find converter for type:"
-                                    << QMetaType::typeName(type);
+                                    << static_cast <QMetaType>(type).name();
             return false;
         }
 

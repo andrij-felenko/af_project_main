@@ -44,6 +44,7 @@ class QSslServer : public QTcpServer
 public:
     QSslServer(QObject *parent = nullptr);
     QSslServer(const QSslConfiguration &sslConfiguration, QObject *parent = nullptr);
+    virtual ~QSslServer();
 
     void setSslConfiguration(const QSslConfiguration &sslConfiguration);
 

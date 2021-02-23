@@ -50,6 +50,11 @@ QSslServer::QSslServer(const QSslConfiguration &sslConfiguration,
     d->sslConfiguration = sslConfiguration;
 }
 
+QSslServer::~QSslServer()
+{
+    //
+}
+
 void QSslServer::incomingConnection(qintptr handle)
 {
     Q_D(QSslServer);

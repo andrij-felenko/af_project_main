@@ -1,3 +1,4 @@
+add_subdirectory(battle_for_rokugan)
 add_subdirectory(currency)
 #add_subdirectory(eshi)
 add_subdirectory(latinka_translitterator)

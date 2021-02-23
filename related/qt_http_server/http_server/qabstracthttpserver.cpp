@@ -124,7 +124,7 @@ void QAbstractHttpServerPrivate::handleReadyRead(QTcpSocket *socket,
 
     socket->commitTransaction();
     if (!q->handleRequest(*request, socket))
-        Q_EMIT q->missingHandler(*request, socket);
+        emit q->missingHandler(*request, socket);
 }
 
 QAbstractHttpServer::QAbstractHttpServer(QObject *parent)

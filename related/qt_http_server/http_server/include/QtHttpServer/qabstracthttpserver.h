@@ -30,7 +30,7 @@
 #ifndef QABSTRACTHTTPSERVER_H
 #define QABSTRACTHTTPSERVER_H
 
-#include <QtCore/qobject.h>
+#include <QtCore/QObject>
 
 #include "qthttpserverglobal.h"
 
