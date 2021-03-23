@@ -37,3 +37,6 @@
 [submodule "related/boost"]
 	path = related/boost
 	url = https://github.com/boostorg/boost.git
+[submodule "related/qthttpserver"]
+	path = related/qthttpserver
+	url = https://github.com/qt-labs/qthttpserver.git

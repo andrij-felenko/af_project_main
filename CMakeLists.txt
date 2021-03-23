@@ -6,13 +6,13 @@ cmake_minimum_required(VERSION 3.19)
 
 # Project Info
 project(Andrij_Felenko_projects LANGUAGES CXX)
-set(PROJECT_NAME_SHORT   "Andrij Felenko projects")
-set(PROJECT_NAME_LONG    "List of all current Andrij Felenko projects")
-set(PROJECT_DESCRIPTION  "CMake build system template for Qt based projects")
-set(PROJECT_COPYRIGHT    "Copyright (C) 2019-2019 Andrij Felenko")
-set(PROJECT_CONTACT      "andrij.felenko.develop@gmail.com")
-set(PROJECT_VENDOR       "Andrij Felenko")
-set(ORG_WEBSITE          "http://google.com")
+set(PROJECT_NAME_SHORT  "Andrij Felenko projects")
+set(PROJECT_NAME_LONG   "List of all current Andrij Felenko projects")
+set(PROJECT_DESCRIPTION "CMake build system template for Qt based projects")
+set(PROJECT_COPYRIGHT   "Copyright (C) 2019-2020 Andrij Felenko")
+set(PROJECT_CONTACT     "andrij.felenko.develop@gmail.com")
+set(PROJECT_VENDOR      "Andrij Felenko")
+set(ORG_WEBSITE         "http://google.com")
 
 # build info
 set(CMAKE_AUTOMOC ON)
