@@ -1,42 +1,43 @@
 [submodule "base_af"]
-	path = base_af
+	path = source/base_af
 	url = https://andrij_felenko@bitbucket.org/andrij_team/base-af.git
 	branch = master
 [submodule "projects/currency"]
-	path = projects/currency
+	path = source/projects/currency
 	url = https://andrij_felenko@bitbucket.org/andrij_team/currency.git
 	branch = master
 [submodule "projects/pocket_munnin"]
-	path = projects/pocket_munnin
+	path = source/projects/pocket_munnin
 	url = https://andrij_felenko@bitbucket.org/andrij_team/pocket-munnin.git
 	branch = master
 [submodule "projects/swan_test"]
-	path = projects/swan_test
+	path = source/projects/swan_test
 	url = https://andrij_felenko@bitbucket.org/andrij_team/swan-test.git
 	branch = master
 [submodule "projects/tsmok"]
-	path = projects/tsmok
+	path = source/projects/tsmok
 	url = https://andrij_felenko@bitbucket.org/andrij_team/tsmok.git
 	branch = master
 [submodule "projects/eshi"]
-	path = projects/eshi
+	path = source/projects/eshi
 	url = https://andrij_felenko@bitbucket.org/andrij_team/eshi.git
 	branch = master
 [submodule "projects/warehouse_tsd"]
-	path = projects/warehouse_tsd
+	path = source/projects/warehouse_tsd
 	url = https://andrij_felenko@bitbucket.org/andrij_team/warehouse_tsd_app.git
 	branch = master
 [submodule "utilities/parse_flaticon"]
-	path = utilities/parse_flaticon
+	path = source/utilities/parse_flaticon
 	url = https://andrij_felenko@bitbucket.org/andrij_team/parse-flaticon.git
 	branch = master
+[submodule "projects/battle_for_rokugan"]
+	path = source/projects/battle_for_rokugan
+	url = https://andrij_felenko@bitbucket.org/andrij_team/battle_for_rokugan.git
+	branch = master
 [submodule "projects/latinka_translitterator"]
-	path = projects/latinka_translitterator
+	path = source/projects/latinka_translitterator
 	url = https://andrij_felenko@bitbucket.org/andrij_felenko/latinka_translitterator.git
 	branch = master
-[submodule "related/boost"]
-	path = related/boost
-	url = https://github.com/boostorg/boost.git
 [submodule "related/qthttpserver"]
-	path = related/qthttpserver
+	path = source/related/qthttpserver
 	url = https://github.com/qt-labs/qthttpserver.git
