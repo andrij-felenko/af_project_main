@@ -1,3 +1,5 @@
+set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin/resource)
+
 add_subdirectory(accounting)
 add_subdirectory(admin)
 add_subdirectory(af_base)
