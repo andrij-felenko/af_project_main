@@ -1,16 +1,45 @@
 cd base_af
+git pull
 doxygen doxygen_script
-ln -s -f doc/html/index.html doc/af_lib.html
+cd doc
+ln -s -f html/index.html af_lib.html
+cd ..
+git add doc/*
+git add af_lib.html
+git commit -m "update doc"
+git push
 
 cd ../projects/battle_for_rokugan
+git pull
 doxygen doxygen_script
-ln -s -f doc/html/index.html doc/bfr.html
+cd doc
+ln -s -f html/index.html bfr.html
+cd ..
+git add doc/*
+git add bfr.html
+git commit -m "update doc"
+git push
 
 cd ../latinka_translitterator
+git pull
 doxygen doxygen_script
-ln -s -f doc/html/index.html doc/latinka.html
+cd doc
+ln -s -f html/index.html latinka.html
+cd ..
+git add doc/*
+git add latinka.html
+git commit -m "update doc"
+git push
 
-cd ../../..
+cd ../..
+git pull
+git add base_af
+git add projects/battle_for_rokugan
+git add projects/latinka_translitterator
+git commit -m "update doc"
+git push
+
+cd ..
 if [ ! -d "doc" ]
 then 
     mkdir doc
