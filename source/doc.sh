@@ -23,7 +23,6 @@ function make_doc {
     doxygen doxygen_script
     ln -s -f doc/html/index.html "doc/$2.html"
     ln -s -f doc/html/index.html "${doc_dir}/$2.html"
-    ls -l
     git add doc/*
     git add doc/af_lib.html
     git commit -m "update doc $now"
