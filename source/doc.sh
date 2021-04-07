@@ -21,13 +21,13 @@ function make_doc {
     cd ${src_dir}$1
     git pull
     doxygen doxygen_script
-    cd doc
-    ln -s -f html/index.html $2".html"
-    cd ${src_dir}$1
+    ln -s -f doc/html/index.html "doc/$2.html"
+    ln -s -f doc/html/index.html "${doc_dir}/$2.html"
+    ls -l
     git add doc/*
-    git add af_lib.html
+    git add doc/af_lib.html
     git commit -m "update doc $now"
-    ln -s -f html/index.html ${doc_dir}$2".html"
+    git config credential.helper store
     git push
 }
 
@@ -40,6 +40,6 @@ git pull
 git add base_af
 git add projects/battle_for_rokugan
 git add projects/latinka_translitterator
-git add ../doc/*
-git commit -m "update doc"$now
+git add ${doc_dir}"/*"
+git commit -m "update doc $now"
 git push
