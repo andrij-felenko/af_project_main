@@ -3,7 +3,7 @@
 	url = https://andrij_felenko@bitbucket.org/andrij_team/base-af.git
 [submodule "projects/currency"]
 	path = source/projects/currency
-	url = https://andrij_felenko@bitbucket.org/andrij_team/currency.git
+	url = https://github.com/andrij-felenko/Currency.git
 [submodule "projects/pocket_munnin"]
 	path = source/projects/pocket_munnin
 	url = https://andrij_felenko@bitbucket.org/andrij_team/pocket-munnin.git
@@ -12,7 +12,7 @@
 	url = https://andrij_felenko@bitbucket.org/andrij_team/swan-test.git
 [submodule "projects/tsmok"]
 	path = source/projects/tsmok
-	url = https://andrij_felenko@bitbucket.org/andrij_team/tsmok.git
+	url = https://github.com/andrij-felenko/tsmok.git
 [submodule "projects/eshi"]
 	path = source/projects/eshi
 	url = https://andrij_felenko@bitbucket.org/andrij_team/eshi.git
@@ -24,10 +24,10 @@
 	url = https://andrij_felenko@bitbucket.org/andrij_team/parse-flaticon.git
 [submodule "projects/battle_for_rokugan"]
 	path = source/projects/battle_for_rokugan
-	url = https://andrij_felenko@bitbucket.org/andrij_team/battle_for_rokugan.git
+	url = https://github.com/andrij-felenko/Battle_for_Rokugan.git
 [submodule "projects/latinka_translitterator"]
 	path = source/projects/latinka_translitterator
-	url = https://andrij_felenko@bitbucket.org/andrij_felenko/latinka_translitterator.git
+	url = https://github.com/andrij-felenko/Latinka-transliterator.git
 [submodule "related/qthttpserver"]
 	path = source/related/qthttpserver
 	url = https://github.com/qt-labs/qthttpserver.git
