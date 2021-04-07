@@ -31,9 +31,9 @@ function make_doc {
     git push
 }
 
-make_doc "base_af" "af_lib"
-make_doc "projects/battle_for_rokugan" "bfr"
-make_doc "projects/latinka_translitterator" "latinka"
+make_doc "/base_af" "af_lib"
+make_doc "/projects/battle_for_rokugan" "bfr"
+make_doc "/projects/latinka_translitterator" "latinka"
 
 cd ${src_dir}
 git pull
