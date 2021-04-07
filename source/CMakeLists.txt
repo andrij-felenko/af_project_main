@@ -23,8 +23,8 @@ set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin/lib)
 set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin/archive)
 
 # Recursively add sub dirs
-add_subdirectory(base_af)
-add_subdirectory(projects)
+#add_subdirectory(base_af)
+#add_subdirectory(projects)
 add_subdirectory(related)
-add_subdirectory(resources)
-add_subdirectory(utilities)
+#add_subdirectory(resources)
+#add_subdirectory(utilities)
