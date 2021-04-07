@@ -1,27 +1,27 @@
 [submodule "base_af"]
 	path = source/base_af
-	url = https://andrij_felenko@bitbucket.org/andrij_team/base-af.git
+	url = https://github.com/andrij-felenko/AF-base-library.git
 [submodule "projects/currency"]
 	path = source/projects/currency
 	url = https://github.com/andrij-felenko/Currency.git
 [submodule "projects/pocket_munnin"]
 	path = source/projects/pocket_munnin
-	url = https://andrij_felenko@bitbucket.org/andrij_team/pocket-munnin.git
+	url = https://github.com/andrij-felenko/Pocket-Munnin.git
 [submodule "projects/swan_test"]
 	path = source/projects/swan_test
-	url = https://andrij_felenko@bitbucket.org/andrij_team/swan-test.git
+	url = https://github.com/andrij-felenko/Swan-test.git
 [submodule "projects/tsmok"]
 	path = source/projects/tsmok
 	url = https://github.com/andrij-felenko/tsmok.git
 [submodule "projects/eshi"]
 	path = source/projects/eshi
-	url = https://andrij_felenko@bitbucket.org/andrij_team/eshi.git
+	url = https://github.com/andrij-felenko/Eshi.git
 [submodule "projects/warehouse_tsd"]
 	path = source/projects/warehouse_tsd
-	url = https://andrij_felenko@bitbucket.org/andrij_team/warehouse_tsd_app.git
+	url = https://github.com/andrij-felenko/Warehouse-TSD-application.git
 [submodule "utilities/parse_flaticon"]
 	path = source/utilities/parse_flaticon
-	url = https://andrij_felenko@bitbucket.org/andrij_team/parse-flaticon.git
+	url = https://github.com/andrij-felenko/Parse-Flaticon.git
 [submodule "projects/battle_for_rokugan"]
 	path = source/projects/battle_for_rokugan
 	url = https://github.com/andrij-felenko/Battle_for_Rokugan.git
