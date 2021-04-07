@@ -28,6 +28,3 @@
 [submodule "projects/latinka_translitterator"]
 	path = source/projects/latinka_translitterator
 	url = https://github.com/andrij-felenko/Latinka-transliterator.git
-[submodule "related/qthttpserver"]
-	path = source/related/qthttpserver
-	url = https://github.com/qt-labs/qthttpserver.git
